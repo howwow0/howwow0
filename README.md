@@ -3,7 +3,7 @@
 I’m passionate about building efficient systems and constantly enhancing my skills in backend development and software architecture.
 
 ### 📚 Currently Learning:
-- Advanced concepts in Spring Framework
+- Spring Framework, Hibernate
 - CI/CD automation
 
 ---
